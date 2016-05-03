@@ -25,6 +25,7 @@ public class TSP
             else if (i == boarders.length)
             {
               cityList.addLast(cityList.getFirst());
+                
 
             }
             else {
